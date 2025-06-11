@@ -10,7 +10,12 @@ Tech Stack
 
  How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/sign-language-interpreter.git
-   cd sign-language-interpreter
+ 1. Clone or Extract the Project
+
+If downloaded as ZIP:
+- Extract the contents of `sign-language-detector-python-master.zip`.
+
+If using Git:
+```bash
+git clone https://github.com/your-username/sign-language-detector-python.git
+cd sign-language-detector-python
